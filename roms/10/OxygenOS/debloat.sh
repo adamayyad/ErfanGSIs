@@ -22,10 +22,7 @@ rm -rf $1/product/app/GoogleTTS
 rm -rf $1/app/OEMLogKit
 rm -rf $1/app/OPBackup
 rm -rf $1/product/app/Videos
-rm -rf $1/priv-app/OnePlusCamera
-rm -rf $1/priv-app/OnePlusGallery
 rm -rf $1/priv-app/Velvet
-rm -rf $1/reserve/OPNote
 rm -rf $1/reserve/SoundRecorder
 rm -rf $1/reserve/OPForum
 rm -rf $1/reserve/OPBackupRestore
@@ -68,7 +65,6 @@ rm -rf $1/priv-app/HotwordEnrollmentOKGoogleWCD9340
 rm -rf $1/priv-app/subsdm
 rm -rf $1/priv-app/TSDM
 rm -rf $1/priv-app/TagGoogle
-rm -rf $1/priv-app/OnePlusCamera
 rm -rf $1/priv-app/ONS
 rm -rf $1/priv-app/LocalTransport
 rm -rf $1/app/ARCore_stub
