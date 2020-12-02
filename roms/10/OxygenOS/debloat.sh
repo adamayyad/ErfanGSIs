@@ -28,7 +28,6 @@ rm -rf $1/reserve/OPForum
 rm -rf $1/reserve/OPBackupRestore
 rm -rf $1/etc/GeoIP2-City.mmdb
 rm -rf $1/app/QQBrowser
-rm -rf $1/reserve/OPNote
 rm -rf $1/reserve/OPCommunity
 rm -rf $1/reserve/alipay
 rm -rf $1/reserve/amap
